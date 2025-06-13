@@ -1,0 +1,17 @@
+[Unit]
+Description=Simple HTTP Web Server (nc + Bash)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/root/RTES2025_HW3/simple-web-server/simple-web-server.sh     
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+# AmbientCapabilities=CAP_NET_BIND_SERVICE
+
+[Install]
+WantedBy=multi-user.target

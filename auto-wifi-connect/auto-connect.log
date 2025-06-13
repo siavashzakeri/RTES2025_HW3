@@ -1,0 +1,457 @@
+2025-06-03 15:15:39 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:15:41 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  55     
+----------------------------------------
+2025-06-03 15:16:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:16:02 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  56     
+----------------------------------------
+2025-06-03 15:17:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:17:06 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  60     
+----------------------------------------
+2025-06-03 15:18:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:18:01 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  56     
+----------------------------------------
+2025-06-03 15:19:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:19:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  56     
+----------------------------------------
+2025-06-03 15:20:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:20:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  64     
+----------------------------------------
+2025-06-03 15:21:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:21:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  58     
+----------------------------------------
+2025-06-03 15:22:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:22:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  62     
+----------------------------------------
+2025-06-03 15:23:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:23:01 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  57     
+----------------------------------------
+2025-06-03 15:24:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:24:03 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        62     
+UIDcg08613dc2  17     
+----------------------------------------
+2025-06-03 15:25:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:25:03 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        57     
+UIDcg08613dc2  20     
+----------------------------------------
+2025-06-03 15:26:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:26:03 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        57     
+UIDcg08613dc2  20     
+----------------------------------------
+2025-06-03 15:27:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:27:03 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        57     
+UIDcg08613dc2  20     
+----------------------------------------
+2025-06-03 15:28:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:28:01 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        57     
+UIDcg08613dc2  27     
+----------------------------------------
+2025-06-03 15:29:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:29:03 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        62     
+UIDcg08613dc2  27     
+----------------------------------------
+2025-06-03 15:30:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:30:01 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  64     
+----------------------------------------
+2025-06-03 15:31:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:31:06 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  62     
+----------------------------------------
+2025-06-03 15:32:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:32:05 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        60     
+UIDcg08613dc2  17     
+----------------------------------------
+2025-06-03 15:33:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:33:01 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        56     
+UIDcg08613dc2  17     
+----------------------------------------
+2025-06-03 15:34:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:34:03 : Already on 'Siavash'.
+SSID           SIGNAL 
+Siavash        64     
+UIDcg08613dc2  17     
+----------------------------------------
+2025-06-03 15:35:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:35:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  55     
+----------------------------------------
+2025-06-03 15:36:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:36:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  54     
+----------------------------------------
+2025-06-03 15:37:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:37:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-03 15:38:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:38:01 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  43     
+----------------------------------------
+2025-06-03 15:39:01 : auto-wifi.sh STARTED by Cron
+2025-06-03 15:39:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-03 19:17:07 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-03 19:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-03 19:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-04 19:17:07 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-04 19:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-04 19:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-04 19:18:01 : auto-wifi.sh STARTED by Cron
+2025-06-04 19:18:01 : Not on 'Siavash' (was 'none'). Reconnecting…
+[2KDevice 'wlan0' successfully activated with 'd5cdb5e5-f3f7-4644-9b06-56d0a3d7c1d8'.
+2025-06-04 19:18:18 : Connected to 'Siavash'.
+SSID     SIGNAL 
+Siavash  43     
+----------------------------------------
+2025-06-05 19:17:07 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-05 19:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-05 19:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-05 19:18:01 : auto-wifi.sh STARTED by Cron
+2025-06-05 19:18:01 : Not on 'Siavash' (was 'none'). Reconnecting…
+[2KDevice 'wlan0' successfully activated with 'd5cdb5e5-f3f7-4644-9b06-56d0a3d7c1d8'.
+2025-06-05 19:18:09 : Connected to 'Siavash'.
+SSID           SIGNAL 
+Siavash        43     
+UIDcg08613dc2  20     
+----------------------------------------
+2025-06-05 19:17:07 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-05 19:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-05 19:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-09 19:17:07 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-09 19:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-09 19:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-10 19:17:07 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-10 19:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-10 19:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-10 19:17:08 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-10 19:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-10 19:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-12 19:17:07 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-12 19:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-12 19:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-13 04:17:07 : auto-wifi.sh STARTED by Cron
+Error: NetworkManager is not running.
+2025-06-13 04:17:08 : Not on 'Siavash' (was 'none'). Reconnecting…
+Error: NetworkManager is not running.
+2025-06-13 04:17:08 : Connection FAILED (code 8).
+Error: NetworkManager is not running.
+----------------------------------------
+2025-06-13 04:50:07 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:50:07 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 04:51:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:51:01 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 04:52:02 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:52:02 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  48     
+----------------------------------------
+2025-06-13 04:53:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:53:01 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  45     
+----------------------------------------
+2025-06-13 04:54:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:54:01 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 04:55:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:55:01 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  46     
+----------------------------------------
+2025-06-13 04:56:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:56:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  46     
+----------------------------------------
+2025-06-13 04:57:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:57:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  45     
+----------------------------------------
+2025-06-13 04:58:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:58:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 04:59:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 04:59:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 05:00:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:00:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 05:01:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:01:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  45     
+----------------------------------------
+2025-06-13 05:02:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:02:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 05:03:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:03:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  45     
+----------------------------------------
+2025-06-13 05:04:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:04:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 05:05:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:05:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 05:06:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:06:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  45     
+----------------------------------------
+2025-06-13 05:07:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:07:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 05:08:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:08:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  47     
+----------------------------------------
+2025-06-13 05:09:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:09:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  42     
+----------------------------------------
+2025-06-13 05:10:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:10:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  35     
+----------------------------------------
+2025-06-13 05:11:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:11:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  37     
+----------------------------------------
+2025-06-13 05:12:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:12:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  29     
+----------------------------------------
+2025-06-13 05:13:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:13:02 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  39     
+----------------------------------------
+2025-06-13 05:14:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:14:02 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  30     
+----------------------------------------
+2025-06-13 05:15:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:15:02 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  32     
+----------------------------------------
+2025-06-13 05:16:02 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:16:05 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  29     
+----------------------------------------
+2025-06-13 05:17:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:17:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  30     
+----------------------------------------
+2025-06-13 05:18:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:18:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  32     
+----------------------------------------
+2025-06-13 05:19:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:19:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  37     
+----------------------------------------
+2025-06-13 05:20:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:20:04 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  25     
+----------------------------------------
+2025-06-13 05:21:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:21:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  35     
+----------------------------------------
+2025-06-13 05:22:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:22:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  34     
+----------------------------------------
+2025-06-13 05:23:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:23:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  40     
+----------------------------------------
+2025-06-13 05:24:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:24:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  42     
+----------------------------------------
+2025-06-13 05:25:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:25:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  39     
+----------------------------------------
+2025-06-13 05:26:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:26:04 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  30     
+----------------------------------------
+2025-06-13 05:27:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:27:04 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  42     
+----------------------------------------
+2025-06-13 05:28:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:28:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  45     
+----------------------------------------
+2025-06-13 05:29:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:29:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  32     
+----------------------------------------
+2025-06-13 05:30:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:30:02 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  29     
+----------------------------------------
+2025-06-13 05:31:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:31:02 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  32     
+----------------------------------------
+2025-06-13 05:32:02 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:32:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  35     
+----------------------------------------
+2025-06-13 05:33:02 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:33:06 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  42     
+----------------------------------------
+2025-06-13 05:34:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:34:02 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  39     
+----------------------------------------
+2025-06-13 05:35:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:35:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  30     
+----------------------------------------
+2025-06-13 05:36:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:36:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  35     
+----------------------------------------
+2025-06-13 05:37:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:37:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  44     
+----------------------------------------
+2025-06-13 05:38:01 : auto-wifi.sh STARTED by Cron
+2025-06-13 05:38:03 : Already on 'Siavash'.
+SSID     SIGNAL 
+Siavash  46     
+----------------------------------------

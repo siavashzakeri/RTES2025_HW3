@@ -60,18 +60,18 @@ Complete the provided C++ programs `signal-receiver.cpp` and `signal-sender.cpp`
 - **Receiver** 🖨️: Prints its **PID** on startup, waits for signals, and logs each received signal to a file.
 - **Sender** 📩: Accepts a PID and signal number as command-line arguments and sends the signal to the specified process.
 
-Answer the following:
-- ❓ What is the difference between the **SIGINT** and **SIGKILL** signals?
-- ❓ Which signals can be caught or handled by a process?
-- ❓ How many signals are defined in Linux?
+Answer the following:  I fully answered all the questions raised in my report.(SIAVASH ZAKERI)
+- ❓ What is the difference between the **SIGINT** and **SIGKILL** signals? I fully answered this question raised in my report.(SIAVASH ZAKERI)
+- ❓ Which signals can be caught or handled by a process? I fully answered this question raised in my report.(SIAVASH ZAKERI)
+- ❓ How many signals are defined in Linux? I fully answered this question raised in my report.(SIAVASH ZAKERI)
 
 #### 3. Shared Memory
 Complete the provided C++ programs `shm-writer.cpp` and `shm-reader.cpp`:
 - **Writer** ✍️: Creates a shared memory segment and writes user input into a **10-character circular buffer**.
 - **Reader** 📖: Reads and displays the contents of the shared memory upon execution.
 
-Answer the following:
-- ❓ What are the key differences between FIFO and shared memory for IPC?
+Answer the following: I fully answered all the questions raised in my report.(SIAVASH ZAKERI)
+- ❓ What are the key differences between FIFO and shared memory for IPC? I fully answered this question raised in my report.(SIAVASH ZAKERI)
 
 ---
 
